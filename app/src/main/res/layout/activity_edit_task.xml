@@ -180,21 +180,27 @@
             android:id="@+id/textView11"
             android:layout_width="351dp"
             android:layout_height="wrap_content"
-            android:text=" Add task"
+            android:text=" Edit task"
             android:textAlignment="center"
             android:textSize="48sp" />
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Done"
-            tools:layout_editor_absoluteX="156dp"
-            tools:layout_editor_absoluteY="645dp" />
-
     </LinearLayout>
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="636dp" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save edits"
+        tools:layout_editor_absoluteX="244dp"
+        tools:layout_editor_absoluteY="636dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
