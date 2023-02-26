@@ -1,11 +1,10 @@
-# MADHack Agon
+# Taskpolis
 
-Team Name: **Bro Code**
+<img src="https://raw.githubusercontent.com/MADHack-Agon/.github/main/img/app_icon.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="250">
 
-API Access Key: **7c318a9f-bcf4-42fa-843d-f4b21b56246a**
+Use this sample app to start your tasks. Download the project as a Zip file and push your code to the given repository.
 
-Team Members:
-- A.V. Sashmitha Ravindu Atigala - [sashmitharavindu33@gmail.com](mailto:sashmitharavindu33@gmail.com)
-- Ravindu Hasanka Athukorala - [rhatu2000@gmail.com](mailto:rhatu2000@gmail.com)
-- M. Chathushka Ayash - [chathushkaayash@gmail.com](mailto:chathushkaayash@gmail.com)
-- Visal Vishmitha - [visalvishmitha@gmail.com](mailto:visalvishmitha@gmail.com)
+- App Built with JDK 11
+
+(Note that this app uses a simplified MVC architecture and not MVVM, you are free to use your own implementation for the final submission)
