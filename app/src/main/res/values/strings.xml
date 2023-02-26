@@ -20,4 +20,10 @@
     <string name="no_account">Don\'t have an account? </string>
     <string name="have_account">Already have an account? </string>
     <string name="signin_failed">SignIn failed</string>
+    <string name="dropdown1">dropDownMenuExample</string>
+    <string-array name="Category">
+        <item>      Important</item>
+        <item>Usual</item>
+
+    </string-array>
 </resources>
