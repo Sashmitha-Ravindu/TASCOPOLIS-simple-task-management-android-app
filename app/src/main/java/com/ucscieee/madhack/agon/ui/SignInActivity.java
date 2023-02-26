@@ -20,7 +20,7 @@ public class SignInActivity extends AppCompatActivity {
         setContentView(R.layout.activity_signin);
         Objects.requireNonNull(getSupportActionBar()).hide();
 
-        TextView linkSignUp = findViewById(R.id.linkSignUp);
+        TextView linkSignUp = findViewById(R.id.linkSignIn);
         Button btnSignIn = findViewById(R.id.btnSignIn);
 
         linkSignUp.setOnClickListener(new View.OnClickListener() {
